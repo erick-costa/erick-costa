@@ -3,5 +3,5 @@
 Criei um perfil no GitHub para postar meus projetos e ter um bom portfólio.
 
 - 🔭 Desenvolvedor Front End
-- 🌱 Tenho conhecimento e experiência em react, html, css, javascript, nodejs
+- 🌱 Tenho conhecimento e experiência em React, HTML, CSS, JavaScript, NodeJS
 - 📫 Email: erickcosta2509@gmail.com
